@@ -1,6 +1,6 @@
 # Sentence-Processor-Web-Application
 
-This repository contains a web application that allows users to input a sentence and utilizes promises and the fetch API to send the sentence to a server for processing. The application demonstrates the power of promises and the fetch method in handling asynchronous operations and implements a response handling mechanism to display the processed data asynchronously.
+This repository contains a web application that allows users to input a sentence and utilizes promises and the fetch API to send the sentence to a mock server for processing. The application demonstrates the power of promises and the fetch method in handling asynchronous operations and implements a response handling mechanism to display the processed data asynchronously.
 
 Features:
 - User Input: Users can enter a sentence in the input field provided on the web page.
